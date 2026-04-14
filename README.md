@@ -20,3 +20,4 @@ Praticar:
 ## 💻 Tecnologias utilizadas
 
 - Java
+- IDE usada: intellij
